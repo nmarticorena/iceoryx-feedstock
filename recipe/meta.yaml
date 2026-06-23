@@ -11,7 +11,7 @@ source:
     - patches/sha1_cannot_be_empty.diff
 
 build:
-  number: 2
+  number: 3
   skip: true  # [win]
 
 requirements:
